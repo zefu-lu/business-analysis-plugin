@@ -1,0 +1,8 @@
+{
+  "name": "business-analysis",
+  "version": "0.1.0",
+  "description": "Business analysis tools: collect and harvest filings, earnings analysis, intrinsic business valuation.",
+  "author": {
+    "name": "Zefu (Shawn) Lu"
+  }
+}
